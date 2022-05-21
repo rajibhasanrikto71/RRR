@@ -68,14 +68,14 @@ body
 .container a:nth-child(7):before,
 .container a:nth-child(7):after
 {
-    background: linear-gradient(45deg,#1aff22,#0e1538,
-    #0e1538,#ff075b);
+    background: linear-gradient(45deg,#00ccff,#0e1538,
+    #0e1538,#d400d4);
 }
 .container a:nth-child(8):before,
 .container a:nth-child(8):after
 {
-    background: linear-gradient(45deg,#1aff22,#0e1538,
-    #0e1538,#ff075b);
+    background: linear-gradient(45deg,#d400d4,#0e1538,
+    #0e1538,#00ccff);
 }
 .container a:before,
 .container a:after
@@ -107,7 +107,6 @@ body
     justify-content: center;
     align-items: center;
     font-size: 1.0em;
-    text-transform: uppercase;
     letter-spacing: 2px;
     color: #fff;
     border: 1px solid #040a29;
