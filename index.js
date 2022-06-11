@@ -13,6 +13,7 @@ x.innerHTML="R R R";
 a.innerHTML="Apps";
 b.innerHTML="F T P";
 c.innerHTML="Eboardresults";
-d.innerHTML="Help Centre";
+d.innerHTML="Train Ticket";
+e.innerHTML="Help Centre";
 
 
