@@ -14,6 +14,6 @@ a.innerHTML="Apps";
 b.innerHTML="F T P";
 c.innerHTML="Eboardresults";
 d.innerHTML="Train Ticket";
-e.innerHTML="Download FB Video";
-f.innerHTML="Help Centre";
+e.innerHTML="Help Centre";
+f.innerHTML="Download FB Video";
 
