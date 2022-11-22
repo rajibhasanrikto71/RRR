@@ -14,6 +14,6 @@ a.innerHTML="Apps";
 b.innerHTML="F T P";
 c.innerHTML="Eboardresults";
 d.innerHTML="Train Ticket";
-e.innerHTML="Help Centre";
-f.innerHTML="U G D";
+f.innerHTML="Help Centre";
+e.innerHTML="U G D";
 
